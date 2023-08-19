@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+
+caption {
+    font-size: 25px;
+}
+
+tr {
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+caption {
+    color: black;
+    background-color: cadetblue;
+    border: 4px solid white;
+}
+
+span {
+    color: blue;
+}
+
+table {
+    background-color: darkcyan;
+    margin-top: 5%;
+}
+
+td {
+    font-size: 20px;
+}
+
+th {
+    padding: 5px;
+}
